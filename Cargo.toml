@@ -1,0 +1,8 @@
+[package]
+name = "Montgomery_curve_points_to_a_short_Weierstrass_curve_points"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num-bigint = "0.4"
+num-traits = "0.2"
